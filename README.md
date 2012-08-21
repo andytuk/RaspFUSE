@@ -1,4 +1,4 @@
 RaspFUSE
 ========
 
-FUSE for the Raspberry Pi
+FUSE for the Raspberry Pi - coming soon!
